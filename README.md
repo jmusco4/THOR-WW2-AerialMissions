@@ -1,5 +1,5 @@
 # THOR-WW2-AerialMissions
-WWII Aerial Bombing Missions EDA.
+WWII Aerial Bombing Missions EDA. (In Progress as of 10-10-2023)
 
 ## Data:
 The dataset utilized to perform this exploratory data analysis was sourced from Theater of Operations (THOR) Data: World War II. The data contains digitized paper mission reports of WWII aerial bombings by location, mission and more than 60 other attributes. Read more about THOR and the dataset here: https://data.world/datamil/world-war-ii-thor-data
